@@ -1,0 +1,12 @@
+{
+  "name": "hmfull-server",
+  "version": "1.0.0",
+  "main": "publicServer.js",
+  "scripts": {
+    "start": "node publicServer.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "hmfull": "^2.4.3"
+  }
+}
